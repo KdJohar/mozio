@@ -2,3 +2,5 @@
 *.xml
 
 mozio/local_settings.py
+
+*.pyc
